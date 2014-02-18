@@ -1,8 +1,8 @@
 <?php
 /**
- * Genesis JetPack Infinite Scroll
+ * Genesis Jetpack Infinite Scroll
  *
- * @package           Genesis_JetPack_Infinite_Scroll
+ * @package           Genesis_Jetpack_Infinite_Scroll
  * @author            Sridhar Katakam
  * @author            Gary Jones <gary@garyjones.co.uk>
  * @license           GPL-2.0+
@@ -10,9 +10,9 @@
  * @copyright         2014 Gary Jones, Gamajo Tech
  *
  * @wordpress-plugin
- * Plugin Name:       Genesis JetPack Infinite Scroll
- * Plugin URI:        http://gamajo.com/genesis-jetpack-infinite-scroll
- * Description:       Adds support for JetPack Infinite Scroll to Genesis Framework child themes.
+ * Plugin Name:       Genesis Jetpack Infinite Scroll
+ * Plugin URI:        https://github.com/GaryJones/genesis-jetpack-infinite-scroll
+ * Description:       Adds support for Jetpack Infinite Scroll to Genesis Framework child themes.
  * Version:           1.0.0
  * Author:            Sridhar Katakam and Gary Jones
  * Text Domain:       genesis-jetpack-infinite-scroll

@@ -1,6 +1,6 @@
-# Genesis JetPack Infinite Scroll
+# Genesis Jetpack Infinite Scroll
 
-Adds support for JetPack Infinite Scroll to Genesis Framework child themes.
+Adds support for Jetpack Infinite Scroll to Genesis Framework child themes.
 
 ## Description
 
@@ -42,7 +42,7 @@ This plugin supports the [GitHub Updater](https://github.com/afragen/github-upda
 ## Usage
 
 1. Ensure this plugin is activated.
-2. Activate Infinite Scroll module in JetPack.
+2. Activate Infinite Scroll module in Jetpack.
 3. That's it.
 
 ## Credits
